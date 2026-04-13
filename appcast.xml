@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Zeity Updates</title>
+        <language>en</language>
+        <item>
+            <title>Version 1.0-dev</title>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0-dev</sparkle:shortVersionString>
+            <description>Initial development release.</description>
+            <pubDate>Sun, 13 Apr 2026 00:00:00 +0000</pubDate>
+            <enclosure
+                url="https://github.com/Pariola-droid/homebrew-zeity/releases/download/v1.0-dev/Zeity-v1.0.zip"
+                type="application/octet-stream"
+                sparkle:edSignature=""
+                length="1938367"
+            />
+        </item>
+    </channel>
+</rss>
