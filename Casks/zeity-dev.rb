@@ -1,8 +1,8 @@
 cask "zeity-dev" do
-  version "1.0-dev"
-  sha256 "a03035212099f9a17f8d4bcff23493f1863c2365950e0c7c57f25d0e05d5d535"
+  version "1.1.0"
+  sha256 "c29027775ed6c8e853c6def9512ff873e4c1b5cf258b94b9884ecc1b46d10c89"
 
-  url "https://github.com/Pariola-droid/homebrew-zeity/releases/download/v#{version}/Zeity-v1.0.zip"
+  url "https://github.com/Pariola-droid/homebrew-zeity/releases/download/v#{version}/Zeity-v#{version}.zip"
   name "Zeity (Dev)"
   desc "Global timezone companion — track your friends' local times from the menu bar"
   homepage "https://github.com/Pariola-droid/zt-mac"
