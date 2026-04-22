@@ -4,6 +4,19 @@
         <title>Zeity Updates</title>
         <language>en</language>
         <item>
+            <title>Version 1.1.1</title>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+            <description>Launch-at-startup opt-in, zero-padded hour display, onboarding polish.</description>
+            <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
+            <enclosure
+                url="https://github.com/Pariola-droid/homebrew-zeity/releases/download/v1.1.1/Zeity-v1.1.1.zip"
+                type="application/octet-stream"
+                sparkle:edSignature=""
+                length="2571725"
+            />
+        </item>
+        <item>
             <title>Version 1.1.0</title>
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
