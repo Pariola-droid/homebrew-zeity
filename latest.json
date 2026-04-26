@@ -1,0 +1,5 @@
+{
+  "version": "1.2.0",
+  "downloadURL": "https://github.com/Pariola-droid/homebrew-zeity/releases/download/v1.2.0/Zeity-v1.2.0.zip",
+  "releaseNotes": "Custom emoji picker, default-timezone auto/manual mode, half-hour offset support, plus a perf and correctness audit pass."
+}
