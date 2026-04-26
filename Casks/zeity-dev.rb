@@ -1,6 +1,6 @@
 cask "zeity-dev" do
-  version "1.2.0"
-  sha256 "7de49224a085fd7d395494376009a1660caa348eaaee0a245543a198d317448d"
+  version "1.3.0"
+  sha256 "62a6327962b873441d8225db36c6199abc365ecfea443ff9acf0df7c37fa5088"
 
   url "https://github.com/Pariola-droid/homebrew-zeity/releases/download/v#{version}/Zeity-v#{version}.zip"
   name "Zeity (Dev)"
