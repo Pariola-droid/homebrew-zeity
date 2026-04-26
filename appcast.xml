@@ -4,6 +4,19 @@
         <title>Zeity Updates</title>
         <language>en</language>
         <item>
+            <title>Version 1.2.0</title>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <description>Custom emoji picker, default-timezone auto/manual mode, half-hour offset support, plus a perf and correctness audit pass.</description>
+            <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
+            <enclosure
+                url="https://github.com/Pariola-droid/homebrew-zeity/releases/download/v1.2.0/Zeity-v1.2.0.zip"
+                type="application/octet-stream"
+                sparkle:edSignature=""
+                length="2702501"
+            />
+        </item>
+        <item>
             <title>Version 1.1.1</title>
             <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
